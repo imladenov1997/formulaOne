@@ -1,0 +1,14 @@
+{
+  "name": "fone",
+  "version": "1.0.0",
+  "description": "Formula 1 Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "f1"
+  ],
+  "author": "Ivo Mladenov",
+  "license": "ISC"
+}
